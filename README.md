@@ -1,16 +1,28 @@
-## Hi there 👋
+## Olá, muito prazer! Eu sou Carlos Henrique 🖐🏻
 
-<!--
-**CarlosHM-Oliveira/CarlosHM-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📖 Estudo Sistemas das Informações
+- 💻 Programador Full-Stack
+- 🎮 Desenvolvedor de Jogos
+- 🔧 Práticas Sistemas Embarcados
+- 🏦 Prática em Redes
 
-Here are some ideas to get you started:
+## Tecnologias que uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block">
+  <img width=65px height=65px align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img width=65px height=65px align="center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img width=65px height=65px align="center" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width=65px height=65px align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width=65px height=65px align="center" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img width=65px height=65px align="center" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+   <img width=65px height=65px align="center" alt="sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+   <img width=65px height=65px align="center" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+   <img width=65px height=65px align="center" alt="arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+   <img width=65px height=65px align="center" alt="wp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
+   <img width=65px height=65px align="center" alt="python" src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
+
+## Rede Social
+<a href="https://www.linkedin.com/in/carlos-henrique-093225348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+ <img width=65px height=65px align="center" alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+ </a>
