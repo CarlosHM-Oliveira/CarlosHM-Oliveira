@@ -3,8 +3,8 @@
 - 📖 Estudo Sistemas das Informações
 - 💻 Programador Full-Stack
 - 🎮 Desenvolvedor de Jogos
-- 🔧 Práticas Sistemas Embarcados
-- 🏦 Prática em Redes
+- 🔧 Práticas em Sistemas Embarcados
+- 🏦 Prática em Redes e Protocolos
 
 ## Tecnologias que uso
 
